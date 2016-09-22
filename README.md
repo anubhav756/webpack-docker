@@ -19,3 +19,5 @@ Follow the given steps to replicate this issue:
 [http://localhost](http://localhost)
 
 ... no one :(
+
+If you got this working, head right over [here](http://stackoverflow.com/questions/39632038/cannot-run-webpack-dev-server-inside-docker), and get some stackoverflow reputation ;)
