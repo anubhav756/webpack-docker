@@ -1,11 +1,5 @@
 # webpack-docker
 
-This repo is a replication of an issue which has been found with webpack-dev-server while running under a docker container.
-
-A simple webpack-dev-server is intended to be serving a simple react app from within a docker container, but due to an issue, the server cannot be accessed from outside the container.
-
-Follow the given steps to replicate this issue:
-
 ### Install dependencies
 `npm install`
 
@@ -15,9 +9,5 @@ Follow the given steps to replicate this issue:
 ### Run docker image
 `docker run -p 80:8080 <something>`
 
-### ...and the winner is...
+### Bazzinga!
 [http://localhost](http://localhost)
-
-... no one :(
-
-If you got this working, head right over [here](http://stackoverflow.com/questions/39632038/cannot-run-webpack-dev-server-inside-docker), and get some stackoverflow reputation ;)
