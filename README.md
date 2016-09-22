@@ -10,4 +10,4 @@
 `docker run -p 80:8080 <something>`
 
 ### Bazzinga!
-[http://localhost](http://localhost)
+[localhost](http://localhost)
